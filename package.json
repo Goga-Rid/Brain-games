@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "[![Actions Status](https://github.com/Goga-Rid/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Goga-Rid/frontend-project-44/actions)",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Goga-Rid/frontend-project-44#readme",
   "bin": {
-  "brain-games": "bin/brain-games.js"
- }
+    "brain-games": "bin/brain-games.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
