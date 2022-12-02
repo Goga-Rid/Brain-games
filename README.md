@@ -5,3 +5,7 @@
 *brain-even*
 
 [![asciicast](https://asciinema.org/a/q4u8uZOzWilRAhioRGu4at9cy.svg)](https://asciinema.org/a/q4u8uZOzWilRAhioRGu4at9cy)
+
+*brain-calc*
+
+[![asciicast](https://asciinema.org/a/5c9ASF1yhXd1smqyFkmuWnmyt.svg)](https://asciinema.org/a/5c9ASF1yhXd1smqyFkmuWnmyt)
