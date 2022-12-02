@@ -13,3 +13,7 @@
 *brain-gcd*
 
 [![asciicast](https://asciinema.org/a/sZPBDq6C32LdDtOlNKjFEYkSu.svg)](https://asciinema.org/a/sZPBDq6C32LdDtOlNKjFEYkSu)
+
+*brain-progression*
+
+[![asciicast](https://asciinema.org/a/uQEcU8dm2Ug8mRUeOHDFghM8x.svg)](https://asciinema.org/a/uQEcU8dm2Ug8mRUeOHDFghM8x)
