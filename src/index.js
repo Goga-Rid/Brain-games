@@ -11,7 +11,7 @@ const startGame = (description, freshRound) => {
         const [question, corrAnswer] = freshRound();
         console.log(`Question: ${question}`);
         let userAnswer = readlineSync.question('Your answer: ');
-
+        
         if (corrAnswer !== userAnswer){
             console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${corrAnswer}'.`);
             console.log(`Let's try again, ${username}!`);
