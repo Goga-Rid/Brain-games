@@ -1,5 +1,5 @@
-import startGame from "../index.js";
-import genRandNum from "../genRandNum.js";
+import startGame from '../index.js';
+import genRandNum from '../genRandNum.js';
 
 const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
@@ -14,16 +14,16 @@ const primeLogic = (num) => {
   }
 
   return true;
-}
+};
 
 const rulQuestAndAns = () => {
-    const question = genRandNum(1,30);
-    const answer = primeLogic(question) ? 'yes' : 'no';
-    return [question, answer];
-}
+  const question = genRandNum(1, 30);
+  const answer = primeLogic(question) ? 'yes' : 'no';
+  return [question, answer];
+};
 
 const primeGame = () => {
-    startGame(description, rulQuestAndAns);
-}
+  startGame(description, rulQuestAndAns);
+};
 
 export default primeGame;
